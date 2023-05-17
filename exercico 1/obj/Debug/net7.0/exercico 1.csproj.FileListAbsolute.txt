@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exercico 1\obj\Debug\net7.0\exercico 1.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exercico 1\obj\Debug\net7.0\exercico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exercico 1\obj\Debug\net7.0\exercico 1.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exercico 1\obj\Debug\net7.0\exercico 1.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exercico 1\obj\Debug\net7.0\exercico 1.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exercico 1\bin\Debug\net7.0\exercico 1.exe
+C:\Users\LAB4\Desktop\exercico 1\bin\Debug\net7.0\exercico 1.deps.json
+C:\Users\LAB4\Desktop\exercico 1\bin\Debug\net7.0\exercico 1.runtimeconfig.json
+C:\Users\LAB4\Desktop\exercico 1\bin\Debug\net7.0\exercico 1.dll
+C:\Users\LAB4\Desktop\exercico 1\bin\Debug\net7.0\exercico 1.pdb
+C:\Users\LAB4\Desktop\exercico 1\obj\Debug\net7.0\exercico 1.dll
+C:\Users\LAB4\Desktop\exercico 1\obj\Debug\net7.0\refint\exercico 1.dll
+C:\Users\LAB4\Desktop\exercico 1\obj\Debug\net7.0\exercico 1.pdb
+C:\Users\LAB4\Desktop\exercico 1\obj\Debug\net7.0\exercico 1.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exercico 1\obj\Debug\net7.0\ref\exercico 1.dll
